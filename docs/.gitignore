@@ -1,0 +1,9 @@
+# Excel temporary files
+~$*.xlsx
+*.tmp
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
