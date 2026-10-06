@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="cozy_matcha_petals_only.gif" width="100%" alt="Bakery Production Optimization">
+
+<br>
+
 # 🥐 Bakery Production Optimization
 
 ### Integer Linear Programming · Excel Solver · What-If Analysis
